@@ -8,7 +8,10 @@
 
 <body>
 
+
 <?php echo "Hasta luego desarrollador!!!"
+//introducimos el codigo php  dentro de su etiqueta php
+// con la funcion echo conseguimos sacar por pantalla nuestro codigo
 ?>
 
 </body>
